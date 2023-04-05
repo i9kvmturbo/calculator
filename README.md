@@ -1,2 +1,2 @@
-# calculator
-pet project
+# my personal calculator
+its pet project for training skills
